@@ -21,7 +21,7 @@ url(case2)  : https://isd110.org/our-schools/laketown-elementary/staff-directory
 
 3. Install the dependencies:
 
-  Please download requirements.txt file from code folder and install all the pacakges in virtual environment as follow:
+  Please download requirements.txt file from repo  and install all the pacakges in virtual environment as follow:
 
     >>>pip install -r requirements.txt
   
