@@ -1,0 +1,6 @@
+env
+*.csv
+*.json
+logs
+case1_output
+case2_output
